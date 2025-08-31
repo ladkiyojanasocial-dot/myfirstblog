@@ -6,7 +6,7 @@ The blog is lightweight, mobile-friendly, and easily deployable to **Netlify** f
 ---
 
 ## 🚀 Live Demo (After Deployment)
-👉 [Visit Blog on Netlify](https://your-netlify-site.netlify.app)  
+👉 [Visit Blog on Netlify](https://ladkibahinyojana.netlify.app)  
 (*replace the link after you deploy on Netlify*)
 
 ---
